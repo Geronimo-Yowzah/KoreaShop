@@ -1,0 +1,89 @@
+{   
+    "num_data": 12,
+    "data": [
+        {
+            "id": 1,
+            "branch_name": "เซ็นทรัล เวสต์เกต",
+            "province": "นนทบุรี",
+            "annual_sales": 1141397,
+            "year": 2563
+        },
+        {
+            "id": 2,
+            "branch_name": "เซ็นทรัล เวสต์เกต",
+            "province": "นนทบุรี",
+            "annual_sales": 2061277,
+            "year": 2564
+        },
+        {
+            "id": 3,
+            "branch_name": "เซ็นทรัล ลาดพร้าว",
+            "province": "กรุงเทพ",
+            "annual_sales": 1415059,
+            "year": 2563
+        },
+        {
+            "id": 4,
+            "branch_name": "เซ็นทรัล ลาดพร้าว",
+            "province": "กรุงเทพ",
+            "annual_sales": 2269543,
+            "year": 2564
+        },
+        {
+            "id": 5,
+            "branch_name": "เซ็นทรัลเวิลด์",
+            "province": "กรุงเทพ",
+            "annual_sales": 1605659,
+            "year": 2563
+        },
+        {
+            "id": 6,
+            "branch_name": "เซ็นทรัลเวิลด์",
+            "province": "กรุงเทพ",
+            "annual_sales": 2346132,
+            "year": 2564
+        },
+        {
+            "id": 7,
+            "branch_name": "เซ็นทรัล ภูเก็ต",
+            "province": "ภูเก็ต",
+            "annual_sales": 605184,
+            "year": 2563
+        },
+        {
+            "id": 8,
+            "branch_name": "เซ็นทรัล ภูเก็ต",
+            "province": "ภูเก็ต",
+            "annual_sales": 812612,
+            "year": 2564
+        },
+        {
+            "id": 9,
+            "branch_name": "เซ็นทรัล เอาต์เล็ต",
+            "province": "เชียงใหม่",
+            "annual_sales": 953196,
+            "year": 2563
+        },
+        {
+            "id": 10,
+            "branch_name": "เซ็นทรัล เอาต์เล็ต",
+            "province": "เชียงใหม่",
+            "annual_sales": 1319758,
+            "year": 2564
+        },
+        {
+            "id": 11,
+            "branch_name": "โลตัส บางกรวย-ไทรน้อย",
+            "province": "นนทบุรี",
+            "annual_sales": 421602,
+            "year": 2563
+        },
+        {
+            "id": 12,
+            "branch_name": "โลตัส บางกรวย-ไทรน้อย",
+            "province": "นนทบุรี",
+            "annual_sales": 462205,
+            "year": 2564
+        }
+    ]
+}

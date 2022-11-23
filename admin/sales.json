@@ -1,0 +1,209 @@
+{
+    "num_data": 24,
+    "data": [
+        {
+            "id": 1,            
+            "monthly_sales": 69853,
+            "month": "มกราคม",
+            "year": 2563
+        },
+        {
+            "id": 2,            
+            "monthly_sales": 84504,
+            "month": "กุมภาพันธ์",
+            "year": 2563
+        },
+        {
+            "id": 3,            
+            "monthly_sales": 21286,
+            "month": "มีนาคม",
+            "year": 2563
+        },
+        {
+            "id": 4,
+            "monthly_sales": 31503,
+            "month": "เมษายน",
+            "year": 2563
+        },
+        {
+            "id": 5,            
+            "monthly_sales": 33051,
+            "month": "พฤษภาคม",
+            "year": 2563
+        },
+        {
+            "id": 6,            
+            "monthly_sales": 92651,
+            "month": "มิถุนายน",
+            "year": 2563
+        },
+        {
+            "id": 7,            
+            "monthly_sales": 21787,
+            "month": "กรกฎาคม",
+            "year": 2563
+        },
+        {
+            "id": 8,            
+            "monthly_sales": 26398,
+            "month": "สิงหาคม",
+            "year": 2563
+        },
+        {
+            "id": 9,            
+            "monthly_sales": 20327,
+            "month": "กันยายน",
+            "year": 2563
+        },
+        {
+            "id": 10,            
+            "monthly_sales": 14683,
+            "month": "ตุลาคม",
+            "year": 2563
+        },
+        {
+            "id": 11,            
+            "monthly_sales": 10225,
+            "month": "พฤศจิกายน",
+            "year": 2563
+        },
+        {
+            "id": 12,            
+            "monthly_sales": 74484,
+            "month": "ธันวาคม",
+            "year": 2563
+        },
+        {
+            "id": 13,            
+            "monthly_sales": 20280,
+            "month": "มกราคม",
+            "year": 2564
+        },
+        {
+            "id": 14,            
+            "monthly_sales": 98172,
+            "month": "กุมภาพันธ์",
+            "year": 2564
+        },
+        {
+            "id": 15,            
+            "monthly_sales": 43819,
+            "month": "มีนาคม",
+            "year": 2564
+        },
+        {
+            "id": 16,            
+            "monthly_sales": 25587,
+            "month": "เมษายน",
+            "year": 2564
+        },
+        {
+            "id": 17,            
+            "monthly_sales": 71246,
+            "month": "พฤษภาคม",
+            "year": 2564
+        },
+        {
+            "id": 18,            
+            "monthly_sales": 83142,
+            "month": "มิถุนายน",
+            "year": 2564
+        },
+        {
+            "id": 19,            
+            "monthly_sales": 78076,
+            "month": "กรกฎาคม",
+            "year": 2564
+        },
+        {
+            "id": 20,            
+            "monthly_sales": 19691,
+            "month": "สิงหาคม",
+            "year": 2564
+        },
+        {
+            "id": 21,            
+            "monthly_sales": 36180,
+            "month": "กันยายน",
+            "year": 2564
+        },
+        {
+            "id": 22,            
+            "monthly_sales": 42014,
+            "month": "ตุลาคม",
+            "year": 2564
+        },
+        {
+            "id": 23,            
+            "monthly_sales": 46703,
+            "month": "พฤศจิกายน",
+            "year": 2564
+        },
+        {
+            "id": 24,            
+            "monthly_sales": 29102,
+            "month": "ธันวาคม",
+            "year": 2564
+        },
+        {
+            "id": 25,            
+            "monthly_sales": 45106,
+            "month": "มกราคม",
+            "year": 2565
+        },
+        {
+            "id": 26,            
+            "monthly_sales": 82256,
+            "month": "กุมภาพันธ์",
+            "year": 2565
+        },
+        {
+            "id": 27,            
+            "monthly_sales": 34252,
+            "month": "มีนาคม",
+            "year": 2565
+        },
+        {
+            "id": 28,            
+            "monthly_sales": 35404,
+            "month": "เมษายน",
+            "year": 2565
+        },
+        {
+            "id": 29,            
+            "monthly_sales": 51453,
+            "month": "พฤษภาคม",
+            "year": 2565
+        },
+        {
+            "id": 30,            
+            "monthly_sales": 73104,
+            "month": "มิถุนายน",
+            "year": 2565
+        },
+        {
+            "id": 31,            
+            "monthly_sales": 44045,
+            "month": "กรกฎาคม",
+            "year": 2565
+        },
+        {
+            "id": 32,            
+            "monthly_sales": 23540,
+            "month": "สิงหาคม",
+            "year": 2565
+        },
+        {
+            "id": 33,            
+            "monthly_sales": 33610,
+            "month": "กันยายน",
+            "year": 2565
+        },
+        {
+            "id": 34,            
+            "monthly_sales": 28205,
+            "month": "ตุลาคม",
+            "year": 2565
+        }        
+    ]
+}

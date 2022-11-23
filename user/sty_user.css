@@ -1,0 +1,110 @@
+/* desktop */
+@media (min-width: 981px) {
+    .member-body {           
+        height: 700px;
+        margin: 3% 20% 3% 20%;
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        grid-gap: 20px;
+    }
+    a ,a:visited{
+        color: black;
+    }
+    .content {
+        border-color: black;
+        border-radius: 3px;  
+        box-shadow: 0px 0 2px 0 rgba(0,0,0,0.40);
+        padding: 25px;
+    }
+    aside {    
+        display: inline-block;
+        height: 523px;
+        width: 300px;
+    }
+    h1 {
+        font-size: 200%;    
+    }
+    .member-head {
+        margin-bottom: 25%;
+        margin-top: 10%;    
+    }
+    .member-menu {
+        text-indent: 1.5em;
+    }
+    .member-content {
+        font-weight: bold;
+    }
+    div.member-menu div {    
+        padding-bottom: 0.4em;
+    }
+    article {        
+        width: 800px;      
+        height: 523px;    
+        margin-top: 100px; 
+    }
+    .acc1 {
+        display: inline-block;  
+        width: 450;
+        height: 400;      
+    }
+    .acc1 + div {
+        display: inline-block;
+        width: 450;
+        height: 400;
+        padding-left: 40px;
+    }
+    .acc1 div {
+        margin-top: 20px;
+    }
+    .acc-history {
+        margin-top: 20px;
+    }
+    
+}
+
+/* tablet */
+@media (min-width: 525px) and (max-width: 980px) {
+    .member-body {
+        margin: 3% 20% 3% 20%;
+        font-family: 'IBM Plex Sans Thai Looped', sans-serif; 
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-gap: 10px;
+        height: 700px;
+    }    
+    .member-head {
+        padding-left: 5%;
+        font-size: 24px;
+    }
+    .member-menu {
+        padding-left: 10%;
+        width: 100%;
+    }
+    .content{
+        border-color: black;
+        border-radius: 3px;  
+        box-shadow: 0px 0 2px 0 rgba(0,0,0,0.40);
+        padding: 5%;
+    }
+    .content > div > h1 {
+        font-size: 18px;
+    }    
+
+}
+
+/* mobile first */
+aside, article {
+    margin-top: 5%;
+    margin-left: 5%;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+.member-menu {
+    padding-left: 5%;
+}
+.content{
+    border-color: black;
+    border-radius: 3px;
+    box-shadow: 0px 0 2px 0 rgba(0,0,0,0.40);
+    padding: 3%;
+}
+
